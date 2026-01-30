@@ -9,10 +9,3 @@ This project evaluates the performance of a personal equity portfolio using mont
 
 ## Data
 - Monthly account balance and activity data exported from Fidelity
-
-📓 **Notebook:** [`portfolio_analysis.ipynb`](ian-lent.github.io/portfolio-performance/
-Portfolio Performance.ipynb)
-
-📓 Notebook: [Performance](portfolio-performance/Portfolio Performance.ipynb)
-
-
