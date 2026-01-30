@@ -102,7 +102,7 @@ This long-format, monthly panel structure enables clean comparison between mortg
 - Jupyter Notebook
 - matplotlib / statistical analysis libraries
 
-📓 **Notebook:** [`mortgage_rates.ipynb`](mortgage_rates.ipynb)
+📓 **Notebook:** [`mortgage_rates.ipynb`](mortgage-rate-analysis.ipynb)
 
 ## Notes
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
