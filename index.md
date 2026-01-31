@@ -1,7 +1,3 @@
----
-layout: home
-title: Home
----
 
 # Ian Lent
 
