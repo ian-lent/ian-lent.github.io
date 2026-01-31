@@ -7,12 +7,7 @@ title: Home
 
 UPenn Math Econ + DS, building data-driven investment strategies, interested in pursuing AI & ML applications.
 
-## Projects
-- **Jupyter Notebook that cleans U.S. mortgage-rate data, runs time-series EDA + simple statistical modeling, and generates charts explaining trends,
-- volatility, and macro relationships: link
-- **** one sentence + link
-
 ## Contact
 - Email: ilent@sas.upenn.edu
-- LinkedIn: 
-- GitHub: (link)
+- Phone: 203-666-9604
+- LinkedIn: www.linkedin.com/in/ian-lent-344782331
