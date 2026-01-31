@@ -23,6 +23,18 @@ A pilot event study examining how quarterly earnings surprises relate to short-t
 
 ➡️ [`wmt_earnings/`](wmt-earnings)
 
+---
+
+### Included Research
+
+**GLP-1 Therapies: Competitive Dynamics Between Eli Lilly and Novo Nordisk (12/2025)**  
+An analysis of the obesity and diabetes drug market, examining the divergent performance of Eli Lilly and Novo Nordisk amid shifting market share, pricing pressure, insurance coverage expansion, and regulatory developments. The note reflects an updated view incorporating recent product and policy developments.
+
+📄 Research Note:  
+[`glp1_competitive_dynamics_lly_vs_nvo.md`](glp1_competitive_dynamics_lly_vs_nvo.md)
+
+
+
 ## Tools & Methods
 - Python (pandas, NumPy, matplotlib, statsmodels)
 - Jupyter notebooks
