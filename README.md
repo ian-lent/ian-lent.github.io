@@ -21,7 +21,7 @@ Statistical analysis and visualization of U.S. mortgage rates and housing-relate
 ### Earnings Surprises & Share Price Reactions
 A pilot event study examining how quarterly earnings surprises relate to short-term share price reactions, with a focus on asymmetry between earnings beats and misses. The initial analysis uses Refinitiv IBES data for Walmart (WMT) as a case study.
 
-➡️ [`earnings-event-study/`](WMT Earnings Beats & Misses Analysis)
+➡️ [`earnings-event-study/`](WMT_Earninga)
 
 ## Tools & Methods
 - Python (pandas, NumPy, matplotlib, statsmodels)
