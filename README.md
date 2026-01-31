@@ -31,7 +31,7 @@ A pilot event study examining how quarterly earnings surprises relate to short-t
 An analysis of the obesity and diabetes drug market, examining the divergent performance of Eli Lilly and Novo Nordisk amid shifting market share, pricing pressure, insurance coverage expansion, and regulatory developments. The note reflects an updated view incorporating recent product and policy developments.
 
 📄 Research Note:  
-[`glp1-research`](glp1-research)
+[`glp1-research/`](glp1-research)
 
 
 
